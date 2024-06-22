@@ -1,0 +1,187 @@
+[33mcommit a588cba5361e23b78813b68aa741f4b2214c4296[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: TytusWaliszewski <TytusWaliszewski@users.noreply.github.com>
+Date:   Sat Jun 22 10:52:42 2024 +0000
+
+    KSK-113 fixed issues with empty lines
+
+[33mcommit eab6fef9115c6017f8e3a44b60de49c9a13f8292[m
+Author: TytusWaliszewski <TytusWaliszewski@users.noreply.github.com>
+Date:   Sat Jun 22 10:47:04 2024 +0000
+
+    KSK-103 added lint to Makefile commands
+
+[33mcommit e5ee3811d03e612c040d5d91970bd8409599deef[m
+Author: TytusWaliszewski <TytusWaliszewski@users.noreply.github.com>
+Date:   Sat Jun 22 10:30:31 2024 +0000
+
+    Added Makefile to project
+
+[33mcommit 4bfecfb4e535d3552b3fcf85512413bd69816548[m
+Author: TytusWaliszewski <TytusWaliszewski@users.noreply.github.com>
+Date:   Sat Jun 22 09:48:57 2024 +0000
+
+    fixed the bug with JSON formater
+
+[33mcommit 50f044a5d0dd50e020d3b0b0ffe6ca081641074f[m
+Author: TytusWaliszewski <TytusWaliszewski@users.noreply.github.com>
+Date:   Sat Jun 22 09:29:35 2024 +0000
+
+    Chagned.gitignore file
+
+[33mcommit 32d56b7d442c4ff89a12143b5fe26c3b53a9bf8e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Apr 9 09:46:04 2022 +0200
+
+    Update
+
+[33mcommit a7b1d0cd85759371fd08c0ff4a788976a72fe026[m
+Author: wojciech11 <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Thu Apr 16 13:46:05 2020 +0200
+
+    Update
+
+[33mcommit 7d8f7fbda6092b10aec2d570048b60d8cb905218[m
+Author: wojciech11 <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Jan 18 10:13:57 2020 +0100
+
+    flask
+
+[33mcommit 5bf924d07509b498724e14dcd9b7e52bcb35b08f[m
+Author: wojciech11 <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Jan 18 10:13:11 2020 +0100
+
+    Zmiana formatu README na md
+
+[33mcommit 50f0e4585136cf9838c6e3e054221907ccd5e99e[m
+Author: wojciech11 <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Jan 18 09:53:14 2020 +0100
+
+    Zmiana formatu README na md
+
+[33mcommit 048d964995ff8d1bcd69cc261d8ef9ce6d5baad6[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sun Feb 10 08:39:28 2019 +0100
+
+    Update README.rst
+
+[33mcommit 41a0fb8141d86e9984b4fd94ee31e2ed1016269c[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sun Feb 10 08:38:44 2019 +0100
+
+    Update README.rst
+
+[33mcommit dc09a408c5be1eaa408077d7aab0131cf699fef0[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sun Feb 10 08:38:02 2019 +0100
+
+    Update README.rst
+
+[33mcommit df5779234205e6bd0a9af3375874ff41dae8f819[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Feb 2 14:06:05 2019 +0100
+
+    Update README.rst
+
+[33mcommit f866ee4861ace84d200781800e26520a3fc27881[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Feb 2 13:20:07 2019 +0100
+
+    Update README.rst
+
+[33mcommit 31cb8d1c7591fe507888190ac63e3d9b56a7a930[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Feb 2 13:19:02 2019 +0100
+
+    Update README.rst
+
+[33mcommit fb3ecf655b28e89659adc3ed30860ec3c37a02db[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Feb 2 13:18:32 2019 +0100
+
+    Update README.rst
+
+[33mcommit f87461f80ea5e679d39663d70cde5f8cc3d1c066[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Feb 2 13:18:11 2019 +0100
+
+    Update README.rst
+
+[33mcommit 00affc9c29dfa5e1757594f95d0c46d466e41c64[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Jan 19 13:05:31 2019 +0100
+
+    Update README.rst
+
+[33mcommit 6fa1f90e08c51ee3d9ef1286c7782d8ef6cc6199[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Jan 19 13:05:14 2019 +0100
+
+    Update README.rst
+
+[33mcommit f0410d4a89e548deea1b568c9a616183e49c3add[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Jan 19 13:04:58 2019 +0100
+
+    Update README.rst
+    
+    Changes for Ubuntu
+
+[33mcommit 24ea6fed870f3197e42d39558c7040d55054c6dc[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Mar 24 10:58:58 2018 +0100
+
+    Update README.rst
+    
+    Add -y to yum install commands
+
+[33mcommit 84b3067e1b7973ab3a9f05ce6abc0cb298ceb5cf[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Feb 17 09:19:52 2018 +0100
+
+    Update README.rst
+
+[33mcommit 6939a2689d990a666bf7ff2411af9b0e4ccffb24[m
+Author: Wojtek <wojciechbarczynski.wsb+1@gmail.com>
+Date:   Sat Jan 27 10:42:01 2018 +0100
+
+    Update README.rst
+
+[33mcommit 06922384c99b3c3f7d237d155a0c86f91eb182ca[m
+Author: wojciech11 <wojciechbarczynski.wsb+1@gmail.com%>
+Date:   Sat Dec 9 00:29:27 2017 +0100
+
+    Fix
+
+[33mcommit cbad18d94eb8fe242a4d5abef7412accc3a0dcab[m
+Author: wb <skarab7@users.noreply.github.com>
+Date:   Wed Mar 22 22:46:36 2017 +0100
+
+    Basic formats supported. No tests provided.
+    
+    Test for output formatter lowercaser
+    
+    Test for the app view
+    
+    If not output given, return the Hello World in the plain format
+    
+    Jenkinsfile
+    
+    Jenkinsfile
+    
+    Jenkinsfile
+    
+    Fix the section on running py.test in README.rst
+    
+    Dodanie sekcji Pomocnicza
+    
+    README: lepszy opis dla zadan
+    
+    Poprawka bug-u
+    
+    Add flake8 to test_requirements.txt
+    
+    Source
+    
+    Dodane .txt do test_requirements
+    
+    Dodanie info o pip installl -U pip
