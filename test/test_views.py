@@ -1,4 +1,4 @@
-self.assertEqual(b'{ "imie":"Natalia", "msg":"Hello World!"}', rv.data)
+#self.assertEqual(b'{ "imie":"Natalia", "msg":"Hello World!"}', rv.data)
 
 import unittest
 from hello_world import app
